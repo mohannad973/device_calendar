@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:device_calendar/device_calendar.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_native_timezone/flutter_native_timezone.dart';
+import 'package:flutter_native_timezone_updated_gradle/flutter_native_timezone.dart';
 import 'package:intl/intl.dart';
 
 import 'recurring_event_dialog.dart';
